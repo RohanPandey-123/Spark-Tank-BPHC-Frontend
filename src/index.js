@@ -6,7 +6,7 @@ import { createContext } from 'react';
 import { useState } from 'react';
 
 // Production API
-export const server="https://spark-tank-iiit-backend.onrender.com/api";
+export const server="https://spark-tank-bphc-backend.onrender.com/api";
 
 // Development API
 // export const server="http://localhost:4000/api";      
